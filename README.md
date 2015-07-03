@@ -1,6 +1,8 @@
 # go-cats
 A learning exercise with Go, wercker, and deep-learning.
 
+[![wercker status](https://app.wercker.com/status/48560cd0ae298c2ea00a59385d9815fa/s "wercker status")](https://app.wercker.com/project/bykey/48560cd0ae298c2ea00a59385d9815fa)
+
 # Resources
 - [Quick Start Guide] (http://devcenter.wercker.com/quickstarts/building/golang.html)
 - [Boot2Docker] (https://boot2docker.io)
