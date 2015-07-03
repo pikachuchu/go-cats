@@ -1,0 +1,6 @@
+.*.swp
+_DS_STORE
+_builds
+_projects
+_steps
+go-cats
